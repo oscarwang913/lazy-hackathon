@@ -1,0 +1,28 @@
+{
+  "name": "lazy-hackathon",
+  "version": "1.0.0",
+  "description": "網站連結：[GitHub Page](https://lidemy.github.io/lazy-hackathon/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oscarwang913/lazy-hackathon.git"
+  },
+  "keywords": [],
+  "author": "Oscar Wang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oscarwang913/lazy-hackathon/issues"
+  },
+  "homepage": "https://github.com/oscarwang913/lazy-hackathon#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-webp": "^4.0.1",
+    "gulp-webp-html": "^1.0.2",
+    "node-sass": "^5.0.0"
+  }
+}
