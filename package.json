@@ -19,10 +19,16 @@
   "homepage": "https://github.com/oscarwang913/lazy-hackathon#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
     "gulp-imagemin": "^7.1.0",
     "gulp-sass": "^4.1.0",
     "gulp-webp": "^4.0.1",
     "gulp-webp-html": "^1.0.2",
     "node-sass": "^5.0.0"
+  },
+  "dependencies": {
+    "gulp-babel-minify": "^0.5.1",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-uglify": "^3.0.2"
   }
 }
